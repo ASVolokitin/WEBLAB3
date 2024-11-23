@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectResources">
-    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_3.xsd" location="$PROJECT_DIR$/../ex_lab3/src/main/webapp/resuorces/web-facesconfig_2_3.xsd" />
-    <resource url="http://xmlns.jcp.org/jsf/html" location="$PROJECT_DIR$/server/src/main/resources/web-facesconfig_2_3.xsd" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/server" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
